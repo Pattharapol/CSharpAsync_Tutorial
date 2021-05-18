@@ -1,0 +1,12 @@
+E:\Projects\C# Desktop\AsyncCSharp\AsyncCSharp\bin\Debug\netcoreapp3.1\CSharp-Process.exe
+E:\Projects\C# Desktop\AsyncCSharp\AsyncCSharp\bin\Debug\netcoreapp3.1\CSharp-Process.deps.json
+E:\Projects\C# Desktop\AsyncCSharp\AsyncCSharp\bin\Debug\netcoreapp3.1\CSharp-Process.runtimeconfig.json
+E:\Projects\C# Desktop\AsyncCSharp\AsyncCSharp\bin\Debug\netcoreapp3.1\CSharp-Process.runtimeconfig.dev.json
+E:\Projects\C# Desktop\AsyncCSharp\AsyncCSharp\bin\Debug\netcoreapp3.1\CSharp-Process.dll
+E:\Projects\C# Desktop\AsyncCSharp\AsyncCSharp\bin\Debug\netcoreapp3.1\CSharp-Process.pdb
+E:\Projects\C# Desktop\AsyncCSharp\AsyncCSharp\obj\Debug\netcoreapp3.1\CSharp-Process.AssemblyInfoInputs.cache
+E:\Projects\C# Desktop\AsyncCSharp\AsyncCSharp\obj\Debug\netcoreapp3.1\CSharp-Process.AssemblyInfo.cs
+E:\Projects\C# Desktop\AsyncCSharp\AsyncCSharp\obj\Debug\netcoreapp3.1\CSharp-Process.csproj.CoreCompileInputs.cache
+E:\Projects\C# Desktop\AsyncCSharp\AsyncCSharp\obj\Debug\netcoreapp3.1\CSharp-Process.dll
+E:\Projects\C# Desktop\AsyncCSharp\AsyncCSharp\obj\Debug\netcoreapp3.1\CSharp-Process.pdb
+E:\Projects\C# Desktop\AsyncCSharp\AsyncCSharp\obj\Debug\netcoreapp3.1\CSharp-Process.genruntimeconfig.cache

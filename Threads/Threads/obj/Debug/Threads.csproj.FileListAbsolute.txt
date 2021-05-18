@@ -1,0 +1,7 @@
+E:\Projects\C# Desktop\AsyncCSharp\Threads\Threads\bin\Debug\Threads.exe.config
+E:\Projects\C# Desktop\AsyncCSharp\Threads\Threads\bin\Debug\Threads.exe
+E:\Projects\C# Desktop\AsyncCSharp\Threads\Threads\bin\Debug\Threads.pdb
+E:\Projects\C# Desktop\AsyncCSharp\Threads\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+E:\Projects\C# Desktop\AsyncCSharp\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+E:\Projects\C# Desktop\AsyncCSharp\Threads\Threads\obj\Debug\Threads.exe
+E:\Projects\C# Desktop\AsyncCSharp\Threads\Threads\obj\Debug\Threads.pdb
